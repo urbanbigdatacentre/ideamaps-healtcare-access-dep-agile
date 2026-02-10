@@ -1,1 +1,5 @@
+Kano/Data/outputs/accessibility-index-class.geojson filter=lfs diff=lfs merge=lfs -text
+Kano/Data/outputs/deprivation_classification.geojson filter=lfs diff=lfs merge=lfs -text
+Kano/Data/processed/OD-matrix-kano-access-emoc.csv filter=lfs diff=lfs merge=lfs -text
+Kano/Data/raw/building_footprints.gpkg filter=lfs diff=lfs merge=lfs -text
 *.gpkg filter=lfs diff=lfs merge=lfs -text
