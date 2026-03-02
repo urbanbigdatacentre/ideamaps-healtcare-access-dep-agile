@@ -1,5 +1,5 @@
 ---
-title: 🏥 Emergency Obstetric Care (EmOC) Access Deprivation Model — Kano, Nigeria
+title: Maternal Care Access Deprivation — Kano, Nigeria
 authors: [Diego Pajarito Grajales - Diego.PajaritoGrajales@glasgow.ac.uk, Xingyi Du - xingyi.du@glasgow.ac.uk]
 category: Our Data
 tags: [Maternal health care, Emergency obstetric care, Accessibility]  
